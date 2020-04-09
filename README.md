@@ -3,12 +3,15 @@
 meus primeiros projetos em programação, especificamente programação em linguagem C.
 
 **Trabalho 1**
+ 
  Jogo no qual as escolhas do jogador definem o final a presenciar
  
  **Trabalho 2**
+ 
  Biblioteca com funções específicas
  
  **Trabalho 3**
+ 
  Jogo levemente inspirado em pac man
  
 
